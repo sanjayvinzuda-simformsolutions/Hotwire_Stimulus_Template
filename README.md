@@ -1,0 +1,1 @@
+# Hotwire_Stimulus_Template
