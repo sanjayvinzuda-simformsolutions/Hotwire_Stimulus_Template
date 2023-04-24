@@ -1,0 +1,5 @@
+<h2>New Story</h2>
+
+<%= turbo_frame_tag "create_story_form" do %>
+  <%= render partial: 'form', object: @story %>
+<% end %>
